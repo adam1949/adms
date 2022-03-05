@@ -1,0 +1,2 @@
+# adms
+learn C language
